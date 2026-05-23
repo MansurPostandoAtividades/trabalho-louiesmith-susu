@@ -376,13 +376,6 @@ svg{
     font-family: "Montserrat", Arial, sans-serif;
     margin-left: 10%;
 }
-
-
-
-
-
-
-
 #divDaEsquerda{
     position: absolute;
     left: 0px;
@@ -399,21 +392,6 @@ svg{
    object-fit: cover;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #ul-doLado{
     position: absolute;
     left: 35%;
@@ -421,22 +399,6 @@ svg{
     padding: 0px;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #li-doLado{
     list-style: none;
     margin: 0 0 15px 0;
@@ -449,22 +411,6 @@ svg{
     font-weight: 700;
     padding-bottom: 10px;
     padding-top: 10px;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 #h1-louie{
     color: black;
@@ -474,22 +420,6 @@ svg{
 }
 #a-titulo{
     text-decoration: none;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 #Foto-logo{
     position: absolute;
@@ -596,11 +526,6 @@ svg{
     margin-bottom: 25px;
     color: black;
 }
-
-
-
-
-
 
 #input-1{
     font-size: 15px;
