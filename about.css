@@ -29,21 +29,6 @@ body{
    object-fit: cover;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #ul-doLado{
     position: absolute;
     left: 35%;
@@ -51,21 +36,6 @@ body{
     padding: 0px;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #li-doLado{
     list-style: none;
@@ -79,22 +49,6 @@ body{
     font-weight: 700;
     padding-bottom: 10px;
     padding-top: 10px;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 #h1-louie{
     color: black;
@@ -104,22 +58,6 @@ body{
 }
 #a-titulo{
     text-decoration: none;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 #Foto-logo{
     position: absolute;
@@ -151,8 +89,6 @@ body{
     color: rgba(0, 0, 0, 0.7);
     font-family: 'Montserrat', Arial, sans-serif;
 }
-
-
 
 main{
     width: 78%;
@@ -244,8 +180,6 @@ main{
     font-weight: 600;
     color: black;
 }
-
-
 
 .numerossla{
     background:#1f1f1f;
